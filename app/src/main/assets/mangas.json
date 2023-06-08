@@ -1,0 +1,319 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Attack of the Titans",
+      "pathToTitlePicture": "D://Android/manga/attackofthetitans/titleimage.jpg",
+      "description": "Давным-давно человечество было всего лишь «их» кормом, до тех пор, пока оно не построило гигантскую стену вокруг своей страны. С тех пор прошло сто лет мира и большинство людей жили счастливой, беззаботной жизнью. Но за долгие годы спокойствия пришлось заплатить огромную цену, и в 845 году они снова познали чувство ужаса и беспомощности – стена, которая была их единственным спасением, пала. «Они» прорвались. Половина человечества съедена, треть территории навсегда потеряна...",
+      "releaseYear": 2009,
+      "ageRating": "18+",
+      "numbetOfChapters": 140,
+      "author": "ISAYAMA Hajime",
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action",
+          "mangas": null
+        },
+        {
+          "id": 4,
+          "name": "Drama",
+          "mangas": null
+        },
+        {
+          "id": 5,
+          "name": "Fantasy",
+          "mangas": null
+        },
+        {
+          "id": 7,
+          "name": "Adventures",
+          "mangas": null
+        },
+        {
+          "id": 35,
+          "name": "Post-apocalyptic",
+          "mangas": null
+        },
+        {
+          "id": 36,
+          "name": "Psychology",
+          "mangas": null
+        },
+        {
+          "id": 46,
+          "name": "Tragedy",
+          "mangas": null
+        },
+        {
+          "id": 48,
+          "name": "Horror",
+          "mangas": null
+        }
+      ],
+      "pathToFoldersWithGlava": [
+        {
+          "id": 1,
+          "numberOfGlava": 1,
+          "linkToFirstPicture": "D://Android/manga/attackofthetitans/glava1/1.jpg",
+          "numberOfPictures": 54
+        },
+        {
+          "id": 2,
+          "numberOfGlava": 2,
+          "linkToFirstPicture": "D://Android/manga/attackofthetitans/glava2/1.jpg",
+          "numberOfPictures": 43
+        },
+        {
+          "id": 3,
+          "numberOfGlava": 3,
+          "linkToFirstPicture": "D://Android/manga/attackofthetitans/glava3/1.jpg",
+          "numberOfPictures": 46
+        },
+        {
+          "id": 4,
+          "numberOfGlava": 4,
+          "linkToFirstPicture": "D://Android/manga/attackofthetitans/glava4/1.jpg",
+          "numberOfPictures": 49
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Eneida",
+      "pathToTitlePicture": "D://Android/manga/eneida/titleimage.jpg",
+      "description": "Українська бурлескно-травестійна поема, написана українським письменником Іваном Котляревським, заснована на сюжеті однойменної класичної поеми римського поета Вергілія. Складається з шести частин, на відміну від дванадцяти частин Вергілія. Написана чотиристопним ямбом.\r\n\r\nПоема написана в добу становлення романтизму і націоналізму в Європі, на тлі ностальгії частини української еліти за козацькою державою, ліквідованою Росією в 1775—1786 роках. «Енеїда» — перша масштабна пам'ятка українського письменства, укладена розмовною українською мовою. Поема започаткувала становлення новочасної української літератури. Перші три частини поеми були видані в 1798 році, в Санкт-Петербурзі, без відома автора, під назвою: «Енеида. На малороссійскій языкъ перелиціованная И. Котляревскимъ». Повністю «Енеїда» вийшла в світ після смерті Котляревського, в 1842 році. Цей твір є першокласним джерелом з українознавства, українського побуту та культури XVIII століття.\r\n\r\nЯк і оригінал, сюжет описує пригоди троянського отамана Енея, проте у викладі Котляревського вони подаються в антуражі тогочасної української культури. Після зруйнування батьківщини ворогами, Еней разом зі своїм козацьким військом шукає місця, де зміг би заснувати майбутню імперію. У його поневіряння втручаються боги, намагаючись хто допомогти, а хто завадити його подорожі.",
+      "releaseYear": 1798,
+      "ageRating": "0+",
+      "numbetOfChapters": 12,
+      "author": "Ivan Petrovich Kotlyarevskyi",
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action",
+          "mangas": null
+        },
+        {
+          "id": 3,
+          "name": "Comedy",
+          "mangas": null
+        },
+        {
+          "id": 4,
+          "name": "Drama",
+          "mangas": null
+        },
+        {
+          "id": 7,
+          "name": "Adventures",
+          "mangas": null
+        },
+        {
+          "id": 55,
+          "name": "Burlesque",
+          "mangas": null
+        },
+        {
+          "id": 56,
+          "name": "Travesty",
+          "mangas": null
+        },
+        {
+          "id": 57,
+          "name": "Poem",
+          "mangas": null
+        }
+      ],
+      "pathToFoldersWithGlava": [
+        {
+          "id": 8,
+          "numberOfGlava": 1,
+          "linkToFirstPicture": "D://Android/manga/eneida/glava1/eneida.pdf",
+          "numberOfPictures": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Naruto",
+      "pathToTitlePicture": "D://Android/manga/naruto/titleimage.jpg",
+      "description": "Двенадцать лет назад, мощный Девятихвостый Демон-Лис напал на деревню ниндзя, Коноху. Демон был быстро побежден и запечатан в младенце по имени Наруто Узумаки. Но для этого, главному ниндзя Конохи, четвёртому хокаге пришлось пожертвовать жизнью... Теперь, по прошествии 12-и лет, Наруто является номером один среди придурков ниндзя, который полон решимости стать следующим Хокаге и получить признание всех, кто когда-либо сомневался в нем!",
+      "releaseYear": 1999,
+      "ageRating": "16+",
+      "numbetOfChapters": 702,
+      "author": "KISHIMOTO Masashi",
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action",
+          "mangas": null
+        },
+        {
+          "id": 3,
+          "name": "Comedy",
+          "mangas": null
+        },
+        {
+          "id": 4,
+          "name": "Drama",
+          "mangas": null
+        },
+        {
+          "id": 7,
+          "name": "Adventures",
+          "mangas": null
+        },
+        {
+          "id": 36,
+          "name": "Psychology",
+          "mangas": null
+        },
+        {
+          "id": 38,
+          "name": "Supernatural",
+          "mangas": null
+        }
+      ],
+      "pathToFoldersWithGlava": [
+        {
+          "id": 5,
+          "numberOfGlava": 1,
+          "linkToFirstPicture": "D://Android/manga/naruto/glava1/1.jpg",
+          "numberOfPictures": 45
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Seven Deadly Sins",
+      "pathToTitlePicture": "D://Android/manga/sevendeadlysins/titleimage.jpg",
+      "description": "В королевстве Лионесс несколько рыцарей, прозванных «Семью смертными грехами» пыталисиь совершить государственный переворот. Им не позволили это сделать члены «Святого рыцарства». История на этом не завершилась и возобновилась спустя десять лет. Королевская семья была арестована, а сбежать удалось дочери короля Элизабет. Она полагает, что единственным шансом спастись выступают рыцари и, переодевшись так, чтобы её не узнали, отправилась искать Мелиодаса и его соратников. Она оказывается в таверне, не подозревая, что попала по назначению и отыскала рыцаря, на которого делала ставку. В Британии наконец-то настали спокойные дни, но опять-таки временно. Смельчакам рыцарям и Элизабет предстояло вовлечься в борьбу с Десятью заповедями. Весь мир оказался под серьезной угрозой. Печать вследствие происходящих событий была вскрыта, и демоны могли безо всяких препятствий покинули заточение, а в нем они провели века. Мерлин, Диана, Банд, Эсканор, Кинг и Хоук взялись за оружие и ступили на тропу войны, ведь интересы мира и королевства были превыше. После таких сражений рыцарям полагался отдых, но без новых приключений им не обойтись, а те будут ещё круче прежних.",
+      "releaseYear": 2012,
+      "ageRating": "16+",
+      "numbetOfChapters": 378,
+      "author": "SUZUKI Nakaba",
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action",
+          "mangas": null
+        },
+        {
+          "id": 2,
+          "name": "Romance",
+          "mangas": null
+        },
+        {
+          "id": 3,
+          "name": "Comedy",
+          "mangas": null
+        },
+        {
+          "id": 5,
+          "name": "Fantasy",
+          "mangas": null
+        },
+        {
+          "id": 7,
+          "name": "Adventures",
+          "mangas": null
+        },
+        {
+          "id": 14,
+          "name": "Heroic fantasy",
+          "mangas": null
+        },
+        {
+          "id": 15,
+          "name": "Demons",
+          "mangas": null
+        },
+        {
+          "id": 25,
+          "name": "Magic",
+          "mangas": null
+        },
+        {
+          "id": 38,
+          "name": "Supernatural",
+          "mangas": null
+        }
+      ],
+      "pathToFoldersWithGlava": [
+        {
+          "id": 6,
+          "numberOfGlava": 1,
+          "linkToFirstPicture": "D://Android/manga/sevendeadlysins/glava1/1.jpg",
+          "numberOfPictures": 52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "TokyoGhoul",
+      "pathToTitlePicture": "D://Android/manga/tokyoghoul/titleimage.jpg",
+      "description": "Раса гулей существует с незапамятных времен. Её представители вовсе не против людей, они их даже любят — преимущественно в сыром виде. Любители человечины внешне неотличимы от нас, сильны, быстры и живучи — но их мало, потому гули выработали строгие правила охоты и маскировки, а нарушителей наказывают сами или по-тихому сдают борцам с нечистью. В век науки люди знают про гулей, но как говорится, привыкли. Власти не считают людоедов угрозой, более того, рассматривают их как идеальную основу для создания суперсолдат. Эксперименты идут уже давно… Ничего этого не ведал Канэки Кэн, робкий и невзрачный токийский первокурсник, безнадежно влюбленный в красавицу-интеллектуалку Ризэ, частую гостью в кафе «Место встречи», где парень подрабатывает официантом. Не думал Кэн, что скоро самому придётся стать гулем, и многие знакомые предстанут в неожиданном свете. Главному герою предстоит мучительный поиск нового пути, ибо он понял, что люди и гули похожи: просто одни друг друга жрут в прямом смысле, другие — в переносном. Правда жизни жестока, переделать её нельзя, и силен тот, кто не отворачивается. А дальше уж как-нибудь!",
+      "releaseYear": 2011,
+      "ageRating": "18+",
+      "numbetOfChapters": 144,
+      "author": "ISHIDA Sui",
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action",
+          "mangas": null
+        },
+        {
+          "id": 2,
+          "name": "Romance",
+          "mangas": null
+        },
+        {
+          "id": 4,
+          "name": "Drama",
+          "mangas": null
+        },
+        {
+          "id": 5,
+          "name": "Fantasy",
+          "mangas": null
+        },
+        {
+          "id": 36,
+          "name": "Psychology",
+          "mangas": null
+        },
+        {
+          "id": 38,
+          "name": "Supernatural",
+          "mangas": null
+        },
+        {
+          "id": 45,
+          "name": "Seinen",
+          "mangas": null
+        },
+        {
+          "id": 46,
+          "name": "Tragedy",
+          "mangas": null
+        },
+        {
+          "id": 48,
+          "name": "Horror",
+          "mangas": null
+        }
+      ],
+      "pathToFoldersWithGlava": [
+        {
+          "id": 7,
+          "numberOfGlava": 1,
+          "linkToFirstPicture": "D://Android/manga/tokyoghoul/glava1/1.jpg",
+          "numberOfPictures": 46
+        }
+      ]
+    }
+  ],
+  "errorMessage": "",
+  "statusCode": 200
+}

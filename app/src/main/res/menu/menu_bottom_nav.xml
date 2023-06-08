@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/listOfBooksFragment2"
+        android:enabled="true"
+        android:title="Головний"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/searchBooksFragment"
+        android:enabled="true"
+        android:title="Пошук"
+        android:icon="@drawable/ic_search"/>
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:enabled="true"
+        android:title="Налаштування"
+        android:icon="@drawable/ic_settings"/>
+</menu>

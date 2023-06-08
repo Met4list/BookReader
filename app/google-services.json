@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362784789340",
+    "project_id": "bookreader-a20e6",
+    "storage_bucket": "bookreader-a20e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362784789340:android:9958102bdf8c8e9a1be799",
+        "android_client_info": {
+          "package_name": "com.metalist.bookreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362784789340-7i974acs1cndobtcgd9p7td7m0hb8lsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metalist.bookreader",
+            "certificate_hash": "20ce1cd47a220952313afc1a56e54acb629b7084"
+          }
+        },
+        {
+          "client_id": "362784789340-bdq9682mqeli95ijgpbcs5fdoenhnvc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOwNZWTNb5Qgo7AFOM78F3ZrxaHJygQ6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362784789340-bdq9682mqeli95ijgpbcs5fdoenhnvc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

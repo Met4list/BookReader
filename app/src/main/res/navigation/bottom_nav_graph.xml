@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_nav_graph"
+    app:startDestination="@id/listOfBooksFragment2">
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.metalist.bookreader.presentation.settings.SettingsFragment"
+        android:label="SettingsFragment" />
+    <fragment
+        android:id="@+id/listOfBooksFragment2"
+        android:name="com.metalist.bookreader.presentation.list_of_books.ListOfBooksFragment"
+        android:label="ListOfBooksFragment" />
+    <fragment
+        android:id="@+id/searchBooksFragment"
+        android:name="com.metalist.bookreader.presentation.search.SearchBooksFragment"
+        android:label="SearchBooksFragment" />
+</navigation>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BookReader</string>
+    <string name="personal_data">Персональні дані</string>
+    <string name="notification_options">Сповіщення</string>
+    <string name="log_out">Вихід\n</string>
+    <string name="settings">Налаштування</string>
+    <string name="themes">Теми</string>
+    <string name="login">Авторизація</string>
+    <string name="register">Реєстрація</string>
+    <string name="next">Далі</string>
+
+    <string name="recommendation">Рекомендації</string>
+    <string name="new_books">Нові видання</string>
+
+    <string name="default_web_client_id">362784789340-bdq9682mqeli95ijgpbcs5fdoenhnvc6.apps.googleusercontent.com</string>
+</resources>
